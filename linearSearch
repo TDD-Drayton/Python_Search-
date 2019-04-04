@@ -20,5 +20,5 @@ if __name__ == "__main__":
     tL_position= linear_search(thisList, target)
    print(tL_position)
    
-#Output
-#[0, 7]
+
+#Output [0, 7]
